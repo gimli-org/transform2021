@@ -8,10 +8,9 @@ The [pyGIMLi tutorial at Transform 21](http://schedule.softwareunderground.org/)
 Instructors:
 [Florian Wagner]("") <sup>1</sup>, [Carsten Rücker]("") <sup>2</sup>, [Thomas Günther]("")<sup>3</sup>, [Andrea Balza]("")<sup>1</sup> ]
 
-> <sup>1</sup>c University of Bonn, Steinmann Institute, Department of Geophysics, Bonn, Germany
+> <sup>1</sup>RWTH Aachen University, Applied Geophysics and Geothermal Energy, Aachen, Germany
 > <sup>2</sup> Berlin University of Technology, Department of Applied Geophysics, Berlin, Germany
 > <sup>3</sup> Leibniz Institute for Applied Geophysics, Hannover, Germany
-><sup>4</sup> RWTH Aachen, Applied Geophysics and Geothermal Energy, Germany
 
 |         | Info |
 |--------:|:-----|
