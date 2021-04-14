@@ -6,7 +6,7 @@
 The [pyGIMLi tutorial at Transform 21](http://schedule.softwareunderground.org/)
 
 Instructors:
-[Florian Wagner]("") <sup>1</sup>, [Carsten Rücker]("") <sup>2</sup>, [Thomas Günther]("")<sup>3</sup>, [Andrea Balza]("")<sup>1</sup> ]
+[Florian Wagner]("") <sup>1</sup>, [Carsten Rücker]("") <sup>2</sup>, [Thomas Günther]("")<sup>3</sup>, [Andrea Balza]("")<sup>1</sup>
 
 > <sup>1</sup>RWTH Aachen University, Applied Geophysics and Geothermal Energy, Aachen, Germany
 > <sup>2</sup> Berlin University of Technology, Department of Applied Geophysics, Berlin, Germany
@@ -25,7 +25,7 @@ Instructors:
 
 Make sure you've done these things **before the tutorial on Monday**:
 
-1. Sign-up for the [Software Underground Slack](https://softwareunderground.org/slack)
+1. Sign up for the [Software Underground Slack](https://softwareunderground.org/slack)
 1. Join the channel `t21-mon-pygimli`. This is where **all communication will
    happen** and where we will answer any question about installation.
 
