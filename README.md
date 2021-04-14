@@ -16,8 +16,7 @@ Instructors:
 |--------:|:-----|
 | When | Monday , April 19 • 8:00 - 9:00 UTC |
 | Slack (Q&A) | [Software Underground](https://softwareunderground.org/) channel `t21-mon-pygimli` |
-| Live stream | https://www.youtube.com/watch?v=HPxG5BgRf5g |
-| conda environment  | `` |
+| Live stream | https://youtu.be/w3pu0H3dXe8 |
 | pyGIMLi documentation | https://www.pygimli.org/documentation.html |
 
 
@@ -31,7 +30,12 @@ Make sure you've done these things **before the tutorial on Monday**:
 
 ## About
 
-*Information about the tutorial*
+In this tutorial we will go over the pyGIMLi basics
+* Create a world and explore meshtools.
+* Model a 2D heat equation. 
+And start applying them to a synthetic case and field data
+* Forward compuation of an SRT synthetic model.
+* Modelling and Inversion of ERT field data.
 
 
 ## Setup
