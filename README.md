@@ -37,6 +37,21 @@ And start applying them to a synthetic case and field data
 * Forward compuation of an SRT synthetic model.
 * Modelling and Inversion of ERT field data.
 
+## Schedule 
+
+|  #  | Topic  | Start Time (UTC) | 
+|--:|:-----|:-------|
+| 1 |Intro (main features, conda installer, API doc)| 8:00
+| 2 | 2D meshtools demo | 8:10
+| 3| Equation level: 2D Heat equation | 8:30
+| 4|    Crosshole traveltime forward modeling| 8:40
+| * | BREAK | 8:55
+| 5 | Method Manager: Traveltime inversion| 9:05
+| 6 | Inversion settings: ERT field data set with topo| 9:20
+| 7 | Inversion with own FOP (Simple fit) (& package integration)|9:40
+| 8 | Homepage with examples, papers, contribution guide |9:50
+
+
 
 ## Setup
 
