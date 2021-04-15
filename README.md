@@ -48,7 +48,7 @@ And start applying them to a synthetic case and field data
 | * | BREAK | 8:55
 | 5 | Method Manager: Traveltime inversion| 9:05
 | 6 | Inversion settings: ERT field data set with topo| 9:20
-| 7 | Inversion with own FOP (Simple fit) (& package integration)|9:40
+| 7 | Inversion with own FOP (Simple fit) |9:40
 | 8 | Homepage with examples, papers, contribution guide |9:50
 
 
