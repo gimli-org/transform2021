@@ -40,17 +40,17 @@ pyGIMLi is an open-souce librabry for modeling and inversion in geophysics. This
 
 ## Schedule
 
-|   # | Topic                                                    | Start Time (UTC) |
-| --: | :------------------------------------------------------- | :--------------- |
-|   1 | Intro (main features, conda installer, API doc)          | 8:00             |
-|   2 | 2D meshtools demonstration                               | 8:10             |
-|   3 | Equation level: 2D heat equation                         | 8:30             |
-|   4 | Crosshole traveltime forward modeling                    | 8:40             |
-|  \* | 10-MINUTE BREAK                                          | 8:55             |
-|   5 | Method Manager: Traveltime inversion                     | 9:05             |
-|   6 | Inversion settings: Geoelectric field data set with topo | 9:20             |
-|   7 | Inversion with own forward operator                      | 9:40             |
-|   8 | Homepage with examples, papers, contribution guide       | 9:50             |
+| Notebook # | Topic                                                    | Start Time (UTC) |
+| ---------: | :------------------------------------------------------- | :--------------- |
+|            | Intro (main features, conda installer, API doc)          | 8:00             |
+|          1 | 2D meshtools demonstration                               | 8:10             |
+|          2 | Equation level: 2D heat equation                         | 8:30             |
+|          3 | Crosshole traveltime forward modeling                    | 8:40             |
+|         \* | 10-MINUTE BREAK                                          | 8:55             |
+|          4 | Method Manager: Traveltime inversion                     | 9:05             |
+|          5 | Inversion settings: Geoelectric field data set with topo | 9:20             |
+|          6 | Inversion with own forward operator                      | 9:40             |
+|            | Homepage with examples, papers, contribution guide       | 9:50             |
 
 ## Setup
 
