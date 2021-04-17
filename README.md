@@ -21,7 +21,7 @@ Instructors:
 | pyGIMLi documentation | https://www.pygimli.org/documentation.html                                                                                        |
 ## About
 
-pyGIMLi is an open-souce librabry for modeling and inversion in geophysics. This tutorial is particularly suited for new users. We will start from scratch and:
+pyGIMLi is an open-source library for modeling and inversion in geophysics. This tutorial is particularly suited for new users. We will start from scratch and:
 
 - Create a subsurface geometry and explore the pyGIMLi meshtools
 - Simulate the stationary 2D heat equation
@@ -52,9 +52,9 @@ Make sure you've done these things **before the tutorial on Monday**:
 
 ## Setup instructions
 
-> ### Quick setup
+> ### Quick setup for experienced users
 >
-> If you are working on Mac or Linux and have worked with conda before, you can copy & paste these lines. For all others, we recommend to carefully read the descriptions of individual steps below.
+> If you are working on Mac or Linux and have worked with conda and have git installed, you can copy & paste these lines seperately. For all others, we recommend to carefully read the descriptions of individual steps below.
 >
 > ```bash
 > git clone https://github.com/gimli-org/transform2021
@@ -69,10 +69,12 @@ To start the tutorial setup, please follow the next steps:
 
 ### Step 1: Prerequisites
 
-Make sure you have these two essential things to follow the tutorial:
+There are a few things you'll need to follow the tutorial:
 
 1. A working Python installation (Anaconda or Miniconda). For details on how to install Anaconda, we refer to: https://docs.anaconda.com/anaconda/install/
 2. A modern web browser that works with JupyterLab or Jupyter Notebook (Internet explorer will not work)
+3. Intermediate experience in Python programming (Python, numpy, matplotlib, jupyter)
+4. Background on geophysical modeling and inversion
 
 ### Step 2: Download material for the tutorial
 
