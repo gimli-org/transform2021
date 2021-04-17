@@ -27,16 +27,23 @@ Make sure you've done these things **before the tutorial on Monday**:
 1. Sign up for the [Software Underground Slack](https://softwareunderground.org/slack)
 1. Join the channel [#t21-mon-pygimli](https://swung.slack.com/archives/C01T5V5S9EV) channel. This is where **all communication will
    happen** and where we will answer any question about installation and the tutorial
+1. Set up your computer with the instructions below. We will have limited time during the tutorial to solve installation problems. If you need any help, please ask in the [#t21-mon-pygimli](https://swung.slack.com/archives/C01T5V5S9EV). 
 
 ## About
 
-pyGIMLi is an open-souce librabry for modeling and inversion in geophysics. This tutorial is particularly suited for new users. We will start from scratch and:
+pyGIMLi is an open-source library for modeling and inversion in geophysics. This tutorial is particularly suited for new users. We will start from scratch and:
 
 - Create a subsurface geometry and explore the pyGIMLi meshtools
 - Simulate the stationary 2D heat equation
 - Simulate synthetic crosshole traveltime measurements
 - Invert seismic traveltime and field ERT data
 - Show how to build inversions with own forward operators (e.g., from other packages)
+
+## Prerequisites 
+
+- Good knowledge of Python and Jupyter notebook use.
+- General knowledge of basic Python libraries such as numpy and matplotlib.
+- Geophysical inversion and modeling background.
 
 ## Schedule
 
@@ -57,13 +64,13 @@ pyGIMLi is an open-souce librabry for modeling and inversion in geophysics. This
 There are a few things you'll need to follow the tutorial:
 
 1. A working Python installation (Anaconda or Miniconda). For details on how to install Anaconda, we refer to: https://docs.anaconda.com/anaconda/install/
-2. pyGIMLi installation
+2. pyGIMLi installation (see below)
 3. A modern web browser that works with JupyterLab or Jupyter Notebook (Internet explorer will not work)
 4. Tutorial material provided in this git repository
 
-> ### Quick setup
+> ### Quick setup for experienced users
 >
-> If you are working on Mac or Linux and have worked with conda before, you can copy & paste these lines. For all others, we recommend to carefully read the descriptions of individual steps below.
+> If you are working on Mac or Linux and have worked with conda and have git installed, you can copy & paste these lines seperately. For all others, we recommend to carefully read the descriptions of individual steps below.
 >
 > ```bash
 > conda create -n pg -c gimli -c conda-forge pygimli=1.2.0 notebook
@@ -94,7 +101,7 @@ Type `conda env list ` in the same terminal to check if a new environment named 
 conda activate pg
 ```
 
-After that you can use pyGIMLi with your text editor of choice and a terminal.
+After that, you should see a (pg) in front of your terminal prompt. 
 
 ### Step 2
 
@@ -111,9 +118,11 @@ If you get any errors, please let us know on Slack at [#t21-mon-pygimli](https:/
 
 ### Step 3
 
-**Start Jupyter notebook:**
+**Open tutorial notebooks :**
 
-1. Activate the conda environment: `conda activate pg` if you haven't done so already.
+1. Download the notebooks provided in this repository  (if you are on Mac or Linux and have git, you can do `git clone https://github.com/gimli-org/transform2021` **make sure you are in a clean directory dedicated to this tutorial**)
+3. Navigate towards the transform2021 folder you downloaded. 
+4. In the terminal, activate the conda environment: `conda activate pg` if you haven't done so already.
 2. Start the Jupyter notebook server: type `jupyter notebook`
-3. Jupyter should open in your default web browser.
-4. Download the notebooks provided in this git repository (if you are on Mac or Linux, you can do `git clone https://github.com/gimli-org/transform2021`)
+3. Jupyter should open in your default web browser. 
+
