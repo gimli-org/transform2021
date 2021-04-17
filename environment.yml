@@ -1,0 +1,9 @@
+name: pg-transform
+channels:
+    - conda-forge
+    - defaults
+    - gimli
+dependencies:
+    - python=3.8
+    - pygimli=1.2
+    - jupyterlab
