@@ -62,7 +62,7 @@ Make sure you've done these things **before the tutorial on Monday**:
 > conda env create
 > conda activate pg-transform
 > python -c "import pygimli; pygimli.test(show=False, onlydoctests=True)"
-> jupyter notebook
+> jupyter lab
 > ```
 
 To start the tutorial setup, please follow the next steps:
@@ -108,7 +108,7 @@ If you get any errors, please let us know on Slack at [#t21-mon-pygimli](https:/
 ### Step 4: Start JupyterLab
 
 1. **Windows users:** Make sure you set a default browser that is **not Internet Explorer**.
-2. Activate the conda environment: `conda activate t21-thurs-harmonica`
+2. Activate the conda environment: `conda activate pg-transform`
 3. Start JupyterLab: `jupyter lab`
 4. Jupyter should open in your default web browser. We'll start from here in the
    tutorial and create a new notebook together.
