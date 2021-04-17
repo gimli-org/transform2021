@@ -37,7 +37,7 @@ pyGIMLi is an open-source library for modeling and inversion in geophysics. This
   - [Setup instructions](#setup-instructions)
     - [Step 1: Prerequisites](#step-1-prerequisites)
     - [Step 2: Download material for the tutorial](#step-2-download-material-for-the-tutorial)
-    - [Step 2: Install the tutorial environment](#step-2-install-the-tutorial-environment)
+    - [Step 3: Install the tutorial environment](#step-3-install-the-tutorial-environment)
     - [Step 4: Start JupyterLab](#step-4-start-jupyterlab)
   - [Schedule](#schedule)
 
@@ -82,7 +82,7 @@ There are a few things you'll need to follow the tutorial:
 - Mac/Linux: You can do the same as above, or alternatively open a terminal, navigate to a folder of your choice, and execute `git clone https://github.com/gimli-org/transform2021`.
 
 
-### Step 2: Install the tutorial environment
+### Step 3: Install the tutorial environment
 
 1. Open a terminal (Linux & Mac) or the Anaconda Powershell Prompt (Windows). Navigate to the folder from step 1 (using the `cd` command) and type:
 
