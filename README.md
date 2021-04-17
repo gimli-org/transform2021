@@ -69,10 +69,12 @@ To start the tutorial setup, please follow the next steps:
 
 ### Step 1: Prerequisites
 
-Make sure you have these two essential things to follow the tutorial:
+There are a few things you'll need to follow the tutorial:
 
 1. A working Python installation (Anaconda or Miniconda). For details on how to install Anaconda, we refer to: https://docs.anaconda.com/anaconda/install/
 2. A modern web browser that works with JupyterLab or Jupyter Notebook (Internet explorer will not work)
+3. Intermediate experience in Python programming (Python, numpy, matplotlib, jupyter)
+4. Background on geophysical modeling and inversion
 
 ### Step 2: Download material for the tutorial
 
