@@ -84,7 +84,7 @@ There are a few things you'll need to follow the tutorial:
 
 ### Step 3: Install the tutorial environment
 
-1. Open a terminal (Linux & Mac) or the Anaconda Powershell Prompt (Windows). Navigate to the folder from step 1 (using the `cd` command) and type:
+1. Open a terminal (Linux & Mac) or the Anaconda Powershell Prompt (Windows). Navigate to the folder from step 2 (using the `cd` command) and type:
 
 ```
 conda env create
