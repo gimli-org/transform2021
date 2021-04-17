@@ -46,9 +46,9 @@ pyGIMLi is an open-source library for modeling and inversion in geophysics. This
 Make sure you've done these things **before the tutorial on Monday**:
 
 1. Sign up for the [Software Underground Slack](https://softwareunderground.org/slack)
-1. Join the channel [#t21-mon-pygimli](https://swung.slack.com/archives/C01T5V5S9EV) channel. This is where **all communication will
+2. Join the channel [#t21-mon-pygimli](https://swung.slack.com/archives/C01T5V5S9EV) channel. This is where **all communication will
    happen** and where we will answer any question about installation and the tutorial
-1. **Install the pyGIMLi conda environment** as described below.
+3. **Install the pyGIMLi conda environment** as described below.
 
 ## Setup instructions
 
@@ -112,6 +112,7 @@ If you get any errors, please let us know on Slack at [#t21-mon-pygimli](https:/
 3. Start JupyterLab: `jupyter lab`
 4. Jupyter should open in your default web browser. We'll start from here in the
    tutorial and create a new notebook together.
+
 ## Schedule
 
 | Notebook # | Topic                                                    | Start Time (UTC) |
