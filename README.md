@@ -78,7 +78,7 @@ There are a few things you'll need to follow the tutorial:
 
 ### Step 2: Download material for the tutorial
 
-- Windows: [Download the course material](https://github.com/gimli-org/transform2021/archive/refs/heads/main.zip) and unzip it an folder of your choice.
+- Windows: [Download the course material](https://github.com/gimli-org/transform2021/archive/refs/heads/main.zip) and unzip it a folder of your choice.
 - Mac/Linux: You can do the same as above, or alternatively open a terminal, navigate to a folder of your choice, and execute `git clone https://github.com/gimli-org/transform2021`.
 
 
