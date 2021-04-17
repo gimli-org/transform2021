@@ -54,7 +54,7 @@ Make sure you've done these things **before the tutorial on Monday**:
 
 > ### Quick setup for experienced users
 >
-> If you are working on Mac or Linux and have worked with conda and have git installed, you can copy & paste these lines seperately. For all others, we recommend to carefully read the descriptions of individual steps below.
+> If you are working on Mac or Linux and have worked with conda and have git installed, you can copy & paste these lines separately. For all others, we recommend to carefully read the descriptions of individual steps below.
 >
 > ```bash
 > git clone https://github.com/gimli-org/transform2021
