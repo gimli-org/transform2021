@@ -54,7 +54,7 @@ Make sure you've done these things **before the tutorial on Monday**:
 
 > ### Quick setup for experienced users
 >
-> If you are working on Mac or Linux and have worked with conda and have git installed, you can copy & paste these lines seperately. For all others, we recommend to carefully read the descriptions of individual steps below.
+> If you are working on Mac or Linux and have worked with conda and have git installed, you can copy & paste these lines separately. For all others, we recommend to carefully read the descriptions of individual steps below.
 >
 > ```bash
 > git clone https://github.com/gimli-org/transform2021
@@ -78,13 +78,13 @@ There are a few things you'll need to follow the tutorial:
 
 ### Step 2: Download material for the tutorial
 
-- Windows: [Download the course material](https://github.com/gimli-org/transform2021/archive/refs/heads/main.zip) and unzip it an folder of your choice.
+- Windows: [Download the course material](https://github.com/gimli-org/transform2021/archive/refs/heads/main.zip) and unzip it a folder of your choice.
 - Mac/Linux: You can do the same as above, or alternatively open a terminal, navigate to a folder of your choice, and execute `git clone https://github.com/gimli-org/transform2021`.
 
 
 ### Step 3: Install the tutorial environment
 
-1. Open a terminal (Linux & Mac) or the Anaconda Powershell Prompt (Windows). Navigate to the folder from step 1 (using the `cd` command) and type:
+1. Open a terminal (Linux & Mac) or the Anaconda Powershell Prompt (Windows). Navigate to the folder from step 2 (using the `cd` command) and type:
 
 ```
 conda env create
