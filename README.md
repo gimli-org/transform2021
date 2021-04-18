@@ -1,4 +1,4 @@
-# Tutorial on geophysical modeling & inversion with pyGIMLi
+# Geophysical modeling & inversion with pyGIMLi
 
 <div width="50%">
 <img src="https://www.pygimli.org/_images/pg_logo.png" width=40%>
