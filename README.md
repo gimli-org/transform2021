@@ -17,7 +17,7 @@ Instructors:
 | --------------------: | :-------------------------------------------------------------------------------------------------------------------------------- |
 |                  When | Monday, April 19 • 8:00 - 10:00 UTC (starts at 10.00 a.m. CET)                                                                     |
 |           Slack (Q&A) | [Software Underground](https://softwareunderground.org/) channel [#t21-mon-pygimli](https://swung.slack.com/archives/C01T5V5S9EV) |
-|           Live stream | https://youtu.be/w3pu0H3dXe8?t=152                                                                                                     |
+|           Live stream | https://youtu.be/w3pu0H3dXe8                                                                                                    |
 | pyGIMLi documentation | https://www.pygimli.org/documentation.html                                                                                        |
 ## About
 
