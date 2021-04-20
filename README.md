@@ -15,10 +15,11 @@ Instructors:
 
 |                       | Info                                                                                                                              |
 | --------------------: | :-------------------------------------------------------------------------------------------------------------------------------- |
-|                  When | Monday, April 19 • 8:00 - 10:00 UTC (starts at 10.00 a.m. CET)                                                                     |
+|                  When | Monday, April 19 • 8:00 - 10:00 UTC                                                                                               |
 |           Slack (Q&A) | [Software Underground](https://softwareunderground.org/) channel [#t21-mon-pygimli](https://swung.slack.com/archives/C01T5V5S9EV) |
-|           Live stream | https://youtu.be/w3pu0H3dXe8                                                                                                    |
+|           Live stream | https://youtu.be/w3pu0H3dXe8                                                                                                      |
 | pyGIMLi documentation | https://www.pygimli.org/documentation.html                                                                                        |
+
 ## About
 
 pyGIMLi is an open-source library for modeling and inversion in geophysics. This tutorial is particularly suited for new users. We will start from scratch and:
@@ -30,6 +31,7 @@ pyGIMLi is an open-source library for modeling and inversion in geophysics. This
 - Show how to build inversions with own forward operators (e.g., from other packages)
 
 ## Table of contents
+
 - [Tutorial on geophysical modeling & inversion with pyGIMLi](#tutorial-on-geophysical-modeling--inversion-with-pygimli)
   - [About](#about)
   - [Table of contents](#table-of-contents)
@@ -41,13 +43,12 @@ pyGIMLi is an open-source library for modeling and inversion in geophysics. This
     - [Step 4: Start JupyterLab](#step-4-start-jupyterlab)
   - [Schedule](#schedule)
 
-## BEFORE THE TUTORIAL
+## Foreword
 
-Make sure you've done these things **before the tutorial on Monday**:
+This tutorial was presented on April 19, 2021 at Transform, but you can still follow it on YouTube and ask questions. To do so please:
 
 1. Sign up for the [Software Underground Slack](https://softwareunderground.org/slack)
-2. Join the channel [#t21-mon-pygimli](https://swung.slack.com/archives/C01T5V5S9EV) channel. This is where **all communication will
-   happen** and where we will answer any question about installation and the tutorial
+2. Join the channel [#pygimli](https://swung.slack.com/archives/C01US4T522X) channel to interact with other users and developers and ask questions with regard to the tutorial/software.
 3. **Install the pyGIMLi conda environment** as described below.
 
 ## Setup instructions
@@ -80,7 +81,6 @@ There are a few things you'll need to follow the tutorial:
 
 - Windows: [Download the course material](https://github.com/gimli-org/transform2021/archive/refs/heads/main.zip) and unzip it a folder of your choice.
 - Mac/Linux: You can do the same as above, or alternatively open a terminal, navigate to a folder of your choice, and execute `git clone https://github.com/gimli-org/transform2021`.
-
 
 ### Step 3: Install the tutorial environment
 
@@ -115,14 +115,16 @@ If you get any errors, please let us know on Slack at [#t21-mon-pygimli](https:/
 
 ## Schedule
 
-| Notebook # | Topic                                                    | Start Time (UTC) | YouTube live (hh:mm:ss)|
-| ---------: | :------------------------------------------------------- | :--------------- | :----------------------|
-|            | Intro (main features, conda installer, API doc)          | 8:01             | 00:01:09               |
-|          1 | 2D meshtools demonstration                               | 8:10             | 00:09:30               |
-|          2 | Equation level: 2D heat equation                         | 8:32             | 00:31:10               |
-|          3 | Crosshole traveltime forward modeling                    | 8:49             | 00:48:19               |
-|         \* | 10-MINUTE BREAK                                          | 9:04             | 01:03:00               |
-|          4 | Method Manager: Traveltime inversion                     | 9:11             | 01:10:10               |
-|          5 | Inversion settings: Geoelectric field data set with topo | 9:21             | 01:30:47               |
-|          6 | Inversion with own forward operator                      | 9:38             | 01:47:18               |
-|            | Homepage with examples, papers, contribution guide       | 9:55             | 01:55:50               |
+> **Note**: Click on the notebook number to get to the respective notebook and the minutes to get to the respective position in the tutorial video.
+
+| Notebook                                                                                                       | Topic                                                           | Time                                                           |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------- |
+|                                                                                                                | Intro (main features, conda installer, API documentation)       | [9 min.](https://youtu.be/w3pu0H3dXe8?t=10)                    |
+| [1](https://github.com/gimli-org/transform2021/blob/main/1_Creating_a_subsurface_model.ipynb)                  | Creating a subsurface model (_2D meshtools_)                    | [22 min.](https://www.youtube.com/watch?v=w3pu0H3dXe8&t=570s)  |
+| [2](https://github.com/gimli-org/transform2021/blob/main/2_Modeling_the_2D_heat_equation.ipynb)                | Modeling the 2D heat equation (_equation level_)                | [17 min.](https://www.youtube.com/watch?v=w3pu0H3dXe8&t=1870s) |
+| [3](https://github.com/gimli-org/transform2021/blob/main/3_Simulating_a_crosshole_traveltime_experiment.ipynb) | Simulating a crosshole traveltime experiment (_modeling level_) | [15 min.](https://www.youtube.com/watch?v=w3pu0H3dXe8&t=2899s) |
+|                                                                                                                | 10-MINUTE BREAK                                                 | 7 min.                                                         |
+| [4](https://github.com/gimli-org/transform2021/blob/main/4_Traveltime_inversion.ipynb)                         | Traveltime inversion (_Traveltime method manager_)              | [10 min.](https://www.youtube.com/watch?v=w3pu0H3dXe8&t=4210s) |
+| [5](https://github.com/gimli-org/transform2021/blob/main/5_ERT_field_data_inversion.ipynb)                     | ERT field data inversion (_ERTManager_)                         | [17 min.](https://www.youtube.com/watch?v=w3pu0H3dXe8&t=5447s) |
+| [6](https://github.com/gimli-org/transform2021/blob/main/6_Inversion_with_any_forward_operator.ipynb)          | Inversion with any forward operator                             | [17 min.](https://www.youtube.com/watch?v=w3pu0H3dXe8&t=6438s) |
+|                                                                                                                | Homepage with examples, papers, contribution guide              | [5 min.](https://www.youtube.com/watch?v=w3pu0H3dXe8&t=6950s)  |
