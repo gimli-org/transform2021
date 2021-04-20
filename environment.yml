@@ -5,5 +5,5 @@ channels:
     - gimli
 dependencies:
     - python=3.8
-    - pygimli=1.2
+    - pygimli=1.2.1
     - jupyterlab

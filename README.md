@@ -1,4 +1,4 @@
-# Tutorial on geophysical modeling & inversion with pyGIMLi
+# Geophysical modeling & inversion with pyGIMLi
 
 <div width="50%">
 <img src="https://www.pygimli.org/_images/pg_logo.png" width=40%>
@@ -17,7 +17,7 @@ Instructors:
 | --------------------: | :-------------------------------------------------------------------------------------------------------------------------------- |
 |                  When | Monday, April 19 • 8:00 - 10:00 UTC (starts at 10.00 a.m. CET)                                                                     |
 |           Slack (Q&A) | [Software Underground](https://softwareunderground.org/) channel [#t21-mon-pygimli](https://swung.slack.com/archives/C01T5V5S9EV) |
-|           Live stream | https://youtu.be/w3pu0H3dXe8                                                                                                      |
+|           Live stream | https://youtu.be/w3pu0H3dXe8                                                                                                    |
 | pyGIMLi documentation | https://www.pygimli.org/documentation.html                                                                                        |
 ## About
 
@@ -115,14 +115,14 @@ If you get any errors, please let us know on Slack at [#t21-mon-pygimli](https:/
 
 ## Schedule
 
-| Notebook # | Topic                                                    | Start Time (UTC) |
-| ---------: | :------------------------------------------------------- | :--------------- |
-|            | Intro (main features, conda installer, API doc)          | 8:00             |
-|          1 | 2D meshtools demonstration                               | 8:10             |
-|          2 | Equation level: 2D heat equation                         | 8:30             |
-|          3 | Crosshole traveltime forward modeling                    | 8:40             |
-|         \* | 10-MINUTE BREAK                                          | 8:55             |
-|          4 | Method Manager: Traveltime inversion                     | 9:05             |
-|          5 | Inversion settings: Geoelectric field data set with topo | 9:20             |
-|          6 | Inversion with own forward operator                      | 9:40             |
-|            | Homepage with examples, papers, contribution guide       | 9:50             |
+| Notebook # | Topic                                                    | Start Time (UTC) | YouTube live (hh:mm:ss)|
+| ---------: | :------------------------------------------------------- | :--------------- | :----------------------|
+|            | Intro (main features, conda installer, API doc)          | 8:01             | 00:01:09               |
+|          1 | 2D meshtools demonstration                               | 8:10             | 00:09:30               |
+|          2 | Equation level: 2D heat equation                         | 8:32             | 00:31:10               |
+|          3 | Crosshole traveltime forward modeling                    | 8:49             | 00:48:19               |
+|         \* | 10-MINUTE BREAK                                          | 9:04             | 01:03:00               |
+|          4 | Method Manager: Traveltime inversion                     | 9:11             | 01:10:10               |
+|          5 | Inversion settings: Geoelectric field data set with topo | 9:21             | 01:30:47               |
+|          6 | Inversion with own forward operator                      | 9:38             | 01:47:18               |
+|            | Homepage with examples, papers, contribution guide       | 9:55             | 01:55:50               |
