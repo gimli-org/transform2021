@@ -122,7 +122,7 @@ If you get any errors, please let us know on Slack at [#t21-mon-pygimli](https:/
 |          2 | Equation level: 2D heat equation                         | 8:32             | 00:31:10               |
 |          3 | Crosshole traveltime forward modeling                    | 8:49             | 00:48:19               |
 |         \* | 10-MINUTE BREAK                                          | 9:04             | 01:03:00               |
-|          4 | Method Manager: Traveltime inversion                     | 9:11             | 01:10:00               |
-|          5 | Inversion settings: Geoelectric field data set with topo | 9:21             | 01:30:00               |
-|          6 | Inversion with own forward operator                      | 9:38             | 01:47:00               |
-|            | Homepage with examples, papers, contribution guide       | 9:55             | 01:55:00               |
+|          4 | Method Manager: Traveltime inversion                     | 9:11             | 01:10:10               |
+|          5 | Inversion settings: Geoelectric field data set with topo | 9:21             | 01:30:47               |
+|          6 | Inversion with own forward operator                      | 9:38             | 01:47:18               |
+|            | Homepage with examples, papers, contribution guide       | 9:55             | 01:55:50               |
